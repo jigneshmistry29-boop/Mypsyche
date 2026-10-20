@@ -1,0 +1,8 @@
+{
+  "name": "YeloTrip | Every journey begins with a dream",
+  "description": "Thoughtful, personalised travel planning from real specialists in Vadodara, Gujarat. Tell us where your heart wants to go.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
